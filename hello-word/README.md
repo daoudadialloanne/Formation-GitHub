@@ -25,7 +25,4 @@ Generate a  random cifar10 picture created with a mosaic of pictures from the sa
 ![horse-mosaic](./horse-mosaic.png?raw=true "horse-mosaic")
 
 
-print('my first modification')
-
-
-
+# Hello Word                                  # Hello word
